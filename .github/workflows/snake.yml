@@ -1,0 +1,23 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  snake:
+    name: Generate Snake
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Generate Snake Game from GitHub Contribution Graph
+      uses: platane/snk@v1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
