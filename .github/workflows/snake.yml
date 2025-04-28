@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Game
 
 on:
   push:
@@ -9,15 +9,22 @@ on:
       - main
 
 jobs:
-  snake:
-    name: Generate Snake
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Generate Snake Game from GitHub Contribution Graph
-      uses: platane/snk@v1
+    - name: Generate Snake Game
+      uses: platane/snk@v2
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        # This step generates and stores the snake game SVG in the `output/` folder
+        output_dir: .github/workflows/output  # Specify where the image should go
+
+    - name: Commit and Push Snake Image
+      run: |
+        git add .github/workflows/output/github-contribution-grid-snake.svg
+        git commit -m "Update snake image"
+        git push
