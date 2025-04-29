@@ -26,13 +26,16 @@
 
 
 <!-- GitHub Contribution Snake -->
-<h3>Dont judge me💀</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake.svg" style="max-width: 100%;" />
+<h3 align="center">Don't judge me 💀</h3>
 
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake.svg" style="max-width: 100%;" />
+  </picture>
+</p>
+
 
 
 
