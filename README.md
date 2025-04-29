@@ -26,6 +26,7 @@
 
 
 <!-- GitHub Contribution Snake -->
+<h3>Dont judge me💀</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake.svg" />
