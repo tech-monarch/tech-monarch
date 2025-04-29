@@ -8,7 +8,8 @@
 <h1 align="center">Hi, I'm Omijeh David Odianonsen 👋</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Building+weird+things+🚀;Breaking+stuff+for+fun+🛠️;Making+magic+with+code+✨" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Building+weird+things+%F0%9F%9A%80;Breaking+stuff+for+fun+%F0%9F%9B%A0;Making+magic+with+code+%E2%9C%A8" alt="Typing SVG" />
+
 
 </p>
 
