@@ -13,7 +13,7 @@
 
 <p align="center">
   <b>Age:</b> 18 • <b>Country:</b> Nigeria 🇳🇬<br>
-  <b>Focus:</b> AI • Web Development • 3D Technologies
+  <b>Focus:</b> AI/ML • Embedded Systems • App & Web Development • 3D Technologies
 </p>
 
 <br>
