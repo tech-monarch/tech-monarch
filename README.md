@@ -29,6 +29,7 @@
 
 <!-- GitHub Contribution Snake -->
 <h3 align="center">Don't judge me 💀</h3>
+<p align="center">I know, I'd start building in public from not on😹</p>
 
 <p align="center">
   <picture>
