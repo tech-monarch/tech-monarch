@@ -33,9 +33,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Omijeh-David/Omijeh-David/output/github-snake.svg" style="max-width: 100%;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tech-monarch/tech-monarch/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tech-monarch/tech-monarch/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tech-monarch/tech-monarch/output/github-snake.svg" style="max-width: 100%;" />
   </picture>
 </p>
 
@@ -48,8 +48,8 @@
 
 <!-- Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omijeh-David&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omijeh-David&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=8A2BE2&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tech-monarch&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-monarch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=8A2BE2&text_color=ffffff" height="165" />
 </p>
 
 <br>
@@ -94,5 +94,5 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omijeh-David&color=8A2BE2&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=tech-monarch&color=8A2BE2&style=flat-square" />
 </p>
