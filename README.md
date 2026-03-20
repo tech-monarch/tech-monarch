@@ -77,7 +77,7 @@
 <h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://omijeh-daviddia-v1.vercel.app" target="_blank">
+  <a href="https://omijeh-david.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
